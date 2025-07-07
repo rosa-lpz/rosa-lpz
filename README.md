@@ -24,8 +24,10 @@ My professional goal is to apply data science and artificial intelligence techni
 * NumPy | Pandas | Plotly | Matplotlib | Seaborn | Scikit Learn
 
 ### Databases
+<p align='left'>
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/databases/mysql.svg" alt="MySQL" height="50" width="50" /> 
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/databases/postgresql.svg" alt="PostgreSQL" height="50" width="50" /> 
+</p>
 
 ### Web Development
 <p align='left'>
