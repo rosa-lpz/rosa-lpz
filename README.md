@@ -21,7 +21,11 @@ My professional goal is to apply data science and artificial intelligence techni
 </p>
 
 ### Libraries
+* NumPy | Pandas | Plotly | Matplotlib | Seaborn | Scikit Learn
 
+### Databases
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/databases/mysql.svg" alt="MySQL" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/databases/postgresql.svg" alt="PostgreSQL" height="50" width="50" /> 
 
 ### Web Development
 <p align='left'>
@@ -34,8 +38,8 @@ My professional goal is to apply data science and artificial intelligence techni
 ### Cloud
 <p align='left'>
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/github-logo.png" alt="GitHub" height="50" width="50" />
-<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/databricks-vector-logo.png" alt="GitHub" width="50" />
-<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/azure.svg" alt="GitHub" height="50" width="50" />
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/databricks-vector-logo.png" alt="Databricks" height="50" />
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/azure.svg" alt="Azure" height="50" />
 </p>
 
 
