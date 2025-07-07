@@ -17,8 +17,23 @@ My professional goal is to apply data science and artificial intelligence techni
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/programming%20languages/java.svg" alt="Java" height="50" width="50" /> 
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/programming%20languages/Rlogo.png" alt="R" height="50" width="50" /> 
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/programming%20languages/javascript.svg" alt="JavaScript" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/others/markdown.svg" alt="Markdown" height="50" width="50" /> 
+
 
 ### Libraries
 
 
-### Web Development Frameworks
+### Web Development
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/others/html.svg" alt="HTML" height="50" width="50" />
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/others/css.svg" alt="CSS" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/frameworks/django.svg" alt="Django" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/frameworks/flask.svg" alt="Flask" height="50" width="50" /> 
+
+
+### Cloud
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/github.svg" alt="GitHub" height="50" width="50" />
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/databricks-vector-logo.png" alt="GitHub" height="50" width="50" />
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/azure.svg" alt="GitHub" height="50" width="50" />
+
+
+
