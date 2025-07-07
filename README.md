@@ -21,7 +21,7 @@ My professional goal is to apply data science and artificial intelligence techni
 </p>
 
 ### Libraries
-* NumPy | Pandas | Plotly | Matplotlib | Seaborn | Scikit Learn
+* NumPy | Pandas | Plotly | Matplotlib | Seaborn | Scikit Learn | PySpark
 
 ### Databases
 <p align='left'>
