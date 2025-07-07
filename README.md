@@ -11,9 +11,31 @@ My professional goal is to apply data science and artificial intelligence techni
 ## Skills
 
 ### Programming Languages
-[![](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg) ![](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg)
+<p align='left'>
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/programming%20languages/python.svg" alt="Python" height="50" width="50" />
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/programming%20languages/c%2B%2B.svg" alt="C++" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/programming%20languages/java.svg" alt="Java" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/programming%20languages/Rlogo.png" alt="R" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/programming%20languages/javascript.svg" alt="JavaScript" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/others/markdown.svg" alt="Markdown" height="50" width="50" /> 
+</p>
 
 ### Libraries
 
 
-### Web Development Frameworks
+### Web Development
+<p align='left'>
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/others/html.svg" alt="HTML" height="50" width="50" />
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/others/css.svg" alt="CSS" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/frameworks/django.svg" alt="Django" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/frameworks/flask.svg" alt="Flask" height="50" width="50" /> 
+</p>
+
+### Cloud
+<p align='left'>
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/github.svg" alt="GitHub" height="50" width="50" />
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/databricks-vector-logo.png" alt="GitHub" height="50" width="50" />
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/azure.svg" alt="GitHub" height="50" width="50" />
+</p>
+
+
