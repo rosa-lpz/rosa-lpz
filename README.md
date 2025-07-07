@@ -27,14 +27,14 @@ My professional goal is to apply data science and artificial intelligence techni
 <p align='left'>
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/others/html.svg" alt="HTML" height="50" width="50" />
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/others/css.svg" alt="CSS" height="50" width="50" /> 
-<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/frameworks/django-logo.png" alt="Django" height="50" width="50" /> 
-<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/frameworks/flask-logo.png" alt="Flask" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/frameworks/django-logo.png" alt="Django" height="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/frameworks/flask-logo.png" alt="Flask" height="50" /> 
 </p>
 
 ### Cloud
 <p align='left'>
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/github-logo.png" alt="GitHub" height="50" width="50" />
-<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/databricks-vector-logo.png" alt="GitHub" height="50" width="50" />
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/databricks-vector-logo.png" alt="GitHub" width="50" />
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/azure.svg" alt="GitHub" height="50" width="50" />
 </p>
 
