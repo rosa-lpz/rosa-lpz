@@ -5,7 +5,7 @@ My professional goal is to apply data science and artificial intelligence techni
 
 - 🔭 I’m currently working on Data Science and Machine Learning Projects using Python
 - 🌱 I’m currently learning about Artificial Intelligence (AI) and Machine Learning (ML).
-- 📫 How to reach me: rosali.lopezen@outlook.com
+
 
 
 ## Skills
@@ -42,6 +42,19 @@ My professional goal is to apply data science and artificial intelligence techni
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/github-logo.png" alt="GitHub" height="50" width="50" />
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/databricks-vector-logo.png" alt="Databricks" height="50" />
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/cloud/azure.svg" alt="Azure" height="50" />
+</p>
+
+
+
+
+# 📫 How to reach me
+<p align='left'>
+<a href="mailto:rosali.lopezen@outlook.com">
+  <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/social/email.svg" alt="Email" height="75" width="75" />
+</a>
+<a href="https://www.linkedin.com/in/rosalilopezen/">
+  <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/social/linkedin.svg" alt="LinkedIn" height="75" width="75" />
+</a>
 </p>
 
 
