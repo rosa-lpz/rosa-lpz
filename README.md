@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Rosa 🌱
+# Rosa Lopez
 
-I am a data scientist with a background in chemistry and computer systems engineering. 
+Hi there 👋 I'm Rosa 🌱, I am a data scientist with a background in chemistry and computer systems engineering. 
 My professional goal is to apply data science and artificial intelligence techniques for engineering, health and environmental science. I consider myself a person in constant learning.
 
 - 🔭 I’m currently working on Data Science and Machine Learning Projects using Python
@@ -17,13 +17,13 @@ My professional goal is to apply data science and artificial intelligence techni
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/programming%20languages/javascript.svg" alt="JavaScript" height="50" width="50" /> 
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/others/markdown.svg" alt="Markdown" height="50" width="50" /> 
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/libraries/pandas.svg" alt="Pandas" height="50" width="50" /> 
-<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/libraries/numpy.png" alt="NumPy" height="50" width="50" /> 
-<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/libraries/pyspark.png" alt="PySpark" height="50" width="50" /> 
-<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/libraries/matplotlib.svg" alt="Matplotlib" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/libraries/numpy.png" alt="NumPy" height="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/libraries/pyspark.png" alt="PySpark" height="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/libraries/matplotlib.svg" alt="Matplotlib" height="50"/> 
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/libraries/seaborn1.png" alt="Seaborn" height="50" width="50" /> 
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/libraries/plotly.png" alt="Plotly" height="50" width="50" /> 
-<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/libraries/scikit-learn.svg" alt="Scikit-Learn" height="50" width="50" /> 
-<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/databases/mysql.svg" alt="MySQL" height="50" width="50" /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/libraries/scikit-learn.svg" alt="Scikit-Learn" height="50"  /> 
+<img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/databases/mysql.svg" alt="MySQL" height="50" /> 
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/databases/postgresql.svg" alt="PostgreSQL" height="50" width="50" /> 
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/others/html.svg" alt="HTML" height="50" />
 <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/others/css.svg" alt="CSS" height="50"  /> 
@@ -39,7 +39,6 @@ My professional goal is to apply data science and artificial intelligence techni
 
 
 </p>
-
 
 ## 📫 How to reach me
 <p align='left'>
