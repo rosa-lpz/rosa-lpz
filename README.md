@@ -4,7 +4,7 @@ Hi there 👋 I'm Rosa 🌱, I am a data scientist with a background in chemistr
 My professional goal is to apply data science and artificial intelligence techniques for engineering, health, environmental science and sustainability. I consider myself a person in constant learning.
 
 - 🔭 I’m currently working on Data Science and Machine Learning Projects using Python
-- 📊 I’m currently learning about Artificial Intelligence (AI) and Machine Learning (ML).
+- 📊  Continue learning about Artificial Intelligence (AI) and Machine Learning (ML).
 - 🌱 Committed to advancing research and analysis in the fields of health, environmental science, and sustainability.
 
 
