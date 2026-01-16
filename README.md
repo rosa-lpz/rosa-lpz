@@ -46,8 +46,6 @@ My professional goal is to apply data science and artificial intelligence techni
 
 </p>
 
-## Interests
-
 ## 📫 How to reach me
 <p align='left'>
 <a href="mailto:rosali.lopezen@outlook.com">
