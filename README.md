@@ -46,6 +46,10 @@ My professional goal is to apply data science and artificial intelligence techni
 
 </p>
 
+## Recent Courses
+* [AI Dev Tools Zoomcamp](https://github.com/rosa-lpz/ai-dev-tools-zoomcamp-2025/blob/main/AI%20Dev%20Tools%202026%20Certificate.pdf)
+
+
 ## 📫 How to reach me
 <p align='left'>
 <a href="mailto:rosali.lopezen@outlook.com">
