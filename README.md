@@ -55,10 +55,6 @@ My professional goal is to apply data science and artificial intelligence techni
 <a href="mailto:rosali.lopezen@outlook.com">
   <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/social/email.svg" alt="Email" height="60" width="60" />
 </a>
-  
-<a href="https://www.linkedin.com/in/rosalilopezen/">
-  <img src="https://github.com/rosa-lpz/rosa-lpz/blob/main/icons/social/linkedin.svg" alt="LinkedIn" height="60" width="60" />
-</a>
 </p>
 
 
